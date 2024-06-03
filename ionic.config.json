@@ -1,0 +1,7 @@
+{
+  "name": "ISPC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
